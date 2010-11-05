@@ -32,3 +32,8 @@ $ git commit -am "startup for a git project"
 [master 61ba077] startup for a git project
  0 files changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 git-startup.txt
+ 
+ 
+$ git commit -a -m "startup for a git project"
+ [master 0eb38ac] startup for a git project
+  1 files changed, 34 insertions(+), 0 deletions(-)
