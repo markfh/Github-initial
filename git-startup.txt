@@ -37,3 +37,16 @@ $ git commit -am "startup for a git project"
 $ git commit -a -m "startup for a git project"
  [master 0eb38ac] startup for a git project
   1 files changed, 34 insertions(+), 0 deletions(-)
+  
+$ git push origin master
+  Counting objects: 9, done.
+  Delta compression using up to 2 threads.
+  Compressing objects: 100% (8/8), done.
+  Writing objects: 100% (8/8), 1.34 KiB, done.
+  Total 8 (delta 3), reused 0 (delta 0)
+  To git@github.com:markfh/Github-initial.git
+     4dcdad0..0406bdb  master -> master
+
+  
+  
+  
